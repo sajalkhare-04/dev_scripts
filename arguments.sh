@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Learning arguments 
+#Learning arguments #ii#
 
 echo "this is argumen 0: $0"
 
